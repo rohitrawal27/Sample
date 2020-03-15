@@ -1,0 +1,11 @@
+C:\Practice\03-15-2020\Sample\Practice.Entities\obj\Debug\Practice.Entities.csproj.CoreCompileInputs.cache
+C:\Practice\03-15-2020\Sample\Practice.Entities\bin\Debug\Practice.Entities.dll.config
+C:\Practice\03-15-2020\Sample\Practice.Entities\bin\Debug\Practice.Entities.dll
+C:\Practice\03-15-2020\Sample\Practice.Entities\bin\Debug\Practice.Entities.pdb
+C:\Practice\03-15-2020\Sample\Practice.Entities\bin\Debug\EntityFramework.dll
+C:\Practice\03-15-2020\Sample\Practice.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Practice\03-15-2020\Sample\Practice.Entities\bin\Debug\EntityFramework.xml
+C:\Practice\03-15-2020\Sample\Practice.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Practice\03-15-2020\Sample\Practice.Entities\obj\Debug\Practice.Entities.csproj.CopyComplete
+C:\Practice\03-15-2020\Sample\Practice.Entities\obj\Debug\Practice.Entities.dll
+C:\Practice\03-15-2020\Sample\Practice.Entities\obj\Debug\Practice.Entities.pdb

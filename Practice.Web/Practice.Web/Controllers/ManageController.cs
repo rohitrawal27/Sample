@@ -6,7 +6,8 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using Practice.Web.Models;
+using Practice.ViewModel;
+
 
 namespace Practice.Web.Controllers
 {

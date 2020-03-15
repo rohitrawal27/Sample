@@ -20,6 +20,8 @@ namespace Practice.Web.Models
 
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
+        public DbSet<Customer> customers { get; set; }
+
         public ApplicationDbContext()
             : base("ApplicationDbConnection", throwIfV1Schema: false)
         {

@@ -5,14 +5,14 @@ namespace Practice.Web.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<Practice.Web.Models.ApplicationDbContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<Practice.ViewModel.ApplicationDbContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(Practice.Web.Models.ApplicationDbContext context)
+        protected override void Seed(Practice.ViewModel.ApplicationDbContext context)
         {
             //  This method will be called after migrating to the latest version.
 

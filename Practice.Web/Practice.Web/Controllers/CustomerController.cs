@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Practice.Service;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,10 +9,21 @@ namespace Practice.Web.Controllers
 {
     public class CustomerController : Controller
     {
+        ICustomersService customerService;
+
+        public CustomerController() : this(new CustomersService())
+        {
+        }
+
+        public CustomerController(ICustomersService customerService)
+        {
+            this.customerService = customerService;
+        }
         // GET: Customer
         public ActionResult Index()
         {
-            return View();
+            var customers = this.customerService.GetCustomers();
+            return View(customers);
         }
     }
 }
