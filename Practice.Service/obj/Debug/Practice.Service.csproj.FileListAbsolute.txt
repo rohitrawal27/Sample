@@ -1,5 +1,3 @@
-C:\Practice\03-15-2020\Sample\Practice.Service\obj\Debug\Practice.Service.csproj.CoreCompileInputs.cache
-C:\Practice\03-15-2020\Sample\Practice.Service\obj\Debug\Practice.Service.csprojAssemblyReference.cache
 C:\Practice\03-15-2020\Sample\Practice.Service\bin\Debug\Practice.Service.dll.config
 C:\Practice\03-15-2020\Sample\Practice.Service\bin\Debug\Practice.Service.dll
 C:\Practice\03-15-2020\Sample\Practice.Service\bin\Debug\Practice.Service.pdb
@@ -35,6 +33,8 @@ C:\Practice\03-15-2020\Sample\Practice.Service\bin\Debug\System.Web.WebPages.xml
 C:\Practice\03-15-2020\Sample\Practice.Service\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Practice\03-15-2020\Sample\Practice.Service\bin\Debug\System.Web.Razor.xml
 C:\Practice\03-15-2020\Sample\Practice.Service\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Practice\03-15-2020\Sample\Practice.Service\obj\Debug\Practice.Service.csprojAssemblyReference.cache
+C:\Practice\03-15-2020\Sample\Practice.Service\obj\Debug\Practice.Service.csproj.CoreCompileInputs.cache
 C:\Practice\03-15-2020\Sample\Practice.Service\obj\Debug\Practice.Service.csproj.CopyComplete
 C:\Practice\03-15-2020\Sample\Practice.Service\obj\Debug\Practice.Service.dll
 C:\Practice\03-15-2020\Sample\Practice.Service\obj\Debug\Practice.Service.pdb

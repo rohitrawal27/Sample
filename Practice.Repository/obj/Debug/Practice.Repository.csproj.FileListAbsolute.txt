@@ -1,5 +1,3 @@
-C:\Practice\03-15-2020\Sample\Practice.Repository\obj\Debug\Practice.Repository.csprojAssemblyReference.cache
-C:\Practice\03-15-2020\Sample\Practice.Repository\obj\Debug\Practice.Repository.csproj.CoreCompileInputs.cache
 C:\Practice\03-15-2020\Sample\Practice.Repository\bin\Debug\Practice.Repository.dll.config
 C:\Practice\03-15-2020\Sample\Practice.Repository\bin\Debug\Practice.Repository.dll
 C:\Practice\03-15-2020\Sample\Practice.Repository\bin\Debug\Practice.Repository.pdb
@@ -31,6 +29,8 @@ C:\Practice\03-15-2020\Sample\Practice.Repository\bin\Debug\System.Web.WebPages.
 C:\Practice\03-15-2020\Sample\Practice.Repository\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Practice\03-15-2020\Sample\Practice.Repository\bin\Debug\System.Web.Razor.xml
 C:\Practice\03-15-2020\Sample\Practice.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Practice\03-15-2020\Sample\Practice.Repository\obj\Debug\Practice.Repository.csprojAssemblyReference.cache
+C:\Practice\03-15-2020\Sample\Practice.Repository\obj\Debug\Practice.Repository.csproj.CoreCompileInputs.cache
 C:\Practice\03-15-2020\Sample\Practice.Repository\obj\Debug\Practice.Repository.csproj.CopyComplete
 C:\Practice\03-15-2020\Sample\Practice.Repository\obj\Debug\Practice.Repository.dll
 C:\Practice\03-15-2020\Sample\Practice.Repository\obj\Debug\Practice.Repository.pdb

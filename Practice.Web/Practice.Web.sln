@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.28307.1062
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice.Web", "Practice.Web\Practice.Web.csproj", "{EA6F2076-0794-4051-B6D2-FE8A1889E038}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice.Web.Tests", "Practice.Web.Tests\Practice.Web.Tests.csproj", "{625BA5AA-B484-46F2-B927-8E1E26354F8C}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice.Entities", "..\Practice.Entities\Practice.Entities.csproj", "{3FEED264-3460-4ABD-8E2F-A55A321B14AA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice.VIewModel", "..\Practice.VIewModel\Practice.VIewModel.csproj", "{56CF34CC-7C47-4DD4-AA2B-F22B8CA6AB25}"
@@ -15,7 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice.Repository", "..\P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice.Service", "..\Practice.Service\Practice.Service.csproj", "{3C7D8194-1488-491A-8B19-0DCEEB129880}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice.Migrations", "Practice.Migrations\Practice.Migrations.csproj", "{9193C7D2-E4B0-4830-9232-A81CB96EDC38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice.Web.Tests", "..\Practice.Web.Tests\Practice.Web.Tests.csproj", "{625BA5AA-B484-46F2-B927-8E1E26354F8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice.Migrations", "..\Practice.Migrations\Practice.Migrations.csproj", "{9193C7D2-E4B0-4830-9232-A81CB96EDC38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,10 +27,6 @@ Global
 		{EA6F2076-0794-4051-B6D2-FE8A1889E038}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA6F2076-0794-4051-B6D2-FE8A1889E038}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA6F2076-0794-4051-B6D2-FE8A1889E038}.Release|Any CPU.Build.0 = Release|Any CPU
-		{625BA5AA-B484-46F2-B927-8E1E26354F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{625BA5AA-B484-46F2-B927-8E1E26354F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{625BA5AA-B484-46F2-B927-8E1E26354F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{625BA5AA-B484-46F2-B927-8E1E26354F8C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3FEED264-3460-4ABD-8E2F-A55A321B14AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3FEED264-3460-4ABD-8E2F-A55A321B14AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FEED264-3460-4ABD-8E2F-A55A321B14AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -47,6 +43,10 @@ Global
 		{3C7D8194-1488-491A-8B19-0DCEEB129880}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C7D8194-1488-491A-8B19-0DCEEB129880}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C7D8194-1488-491A-8B19-0DCEEB129880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{625BA5AA-B484-46F2-B927-8E1E26354F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625BA5AA-B484-46F2-B927-8E1E26354F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625BA5AA-B484-46F2-B927-8E1E26354F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625BA5AA-B484-46F2-B927-8E1E26354F8C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9193C7D2-E4B0-4830-9232-A81CB96EDC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9193C7D2-E4B0-4830-9232-A81CB96EDC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9193C7D2-E4B0-4830-9232-A81CB96EDC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
