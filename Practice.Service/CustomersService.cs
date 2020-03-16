@@ -15,21 +15,22 @@ namespace Practice.Service
 
         public CustomersService()
         {
-            customerRepository = new CustomersRepository();
+           customerRepository = new CustomersRepository();
         }
         public void DeleteCustomer(int customerId)
         {
             throw new NotImplementedException();
         }
 
-        public List<Customer> GetCustomers()
+        public List<CustomerViewModel> GetCustomers()
         {
             List<Customer> customer = customerRepository.GetCustomers();
-            //var config = new MapperConfiguration(cfg => { cfg.CreateMap<Customer, CustomerViewModel>(); cfg.IgnoreUnmapped(); });
-            //IMapper mapper = config.CreateMapper();
-            //List<CustomerViewModel> customerViewModel = mapper.Map<List<Customer>, List<CustomerViewModel>>(customer);
-            return customer;
+            var config = new MapperConfiguration(cfg => { cfg.CreateMap<Customer, CustomerViewModel>(); cfg.IgnoreUnmapped(); });
+            IMapper mapper = config.CreateMapper();
+            List<CustomerViewModel> customerViewModel = mapper.Map<List<Customer>, List<CustomerViewModel>>(customer);
+            return customerViewModel;
         }
+
 
         //public List<CustomerViewModel> GetCustomers()
         //{

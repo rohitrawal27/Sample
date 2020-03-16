@@ -13,7 +13,7 @@ namespace Practice.Service
         //void InsertCustomers(NewCustomerViewModel customerViewModel);
         //void UpdateCustomer(EditCustomerViewModel customerViewModel);
         //void DeleteCustomer(int customerId);
-        List<Customer> GetCustomers();
+        List<CustomerViewModel> GetCustomers();
 
         //void InsertCustomers(NewCustomerViewModel customerViewModel);
         //void UpdateCustomer(EditCustomerViewModel customerViewModel);
